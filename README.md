@@ -1,6 +1,7 @@
  Build a Containerized Transcription API using Whisper Model and FastAPI
  https://youtu.be/NU406wZz1eU?si=JN-kvK7kZ-tJ1zul
  https://whishper.net/guides/install/
+ https://github.com/pluja/whishper
 
  # 📜 Containerized Transcription API using Whisper & FastAPI
 
