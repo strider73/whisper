@@ -10,4 +10,5 @@ services:
       - .:/python-docker
     environment:
       - PYTHONUNBUFFERED=1
+      - UVICORN_TIMEOUT_KEEP_ALIVE=7200
     restart: unless-stopped
